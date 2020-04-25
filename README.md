@@ -1,2 +1,2 @@
-# trainings
-My fitness trainings
+# Треннировки
+Мои фитнесс-треннировки
